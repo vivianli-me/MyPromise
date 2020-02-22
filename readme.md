@@ -1,4 +1,6 @@
-﻿
+﻿### 如何测试
+详细见[promises-tests](https://github.com/promises-aplus/promises-tests)，共有872测试用例
+
 ### 参考资源
 + [Promise/A+规范原文](https://promisesaplus.com)
 + [Promise/A+规范译文](https://github.com/kaola-fed/blog/issues/99)

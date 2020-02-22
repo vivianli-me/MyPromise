@@ -323,7 +323,7 @@ Promise.try = function () {
 }
 
 
-// 测试代码 start
+// 注意，以下代码是为了跑promises-aplus-tests
 /**
  * Promise/A+规范测试，见https://github.com/promises-aplus/promises-tests
  * npm i -g promises-aplus-tests
